@@ -57,7 +57,7 @@ class MuhammadnabiXoliqulov extends BackendDeveloper
 ## 💼 Professional Experience
 
 ### 🏢 **Fullstack Backend Developer** @ IZISOL MCHJ
-*Apr 2025 – Present | Tashkent, Uzbekistan*
+*Apr 2025 – oct 2025 | Tashkent, Uzbekistan*
 
 ```
 ✅ Developing enterprise-level Laravel applications
@@ -157,7 +157,7 @@ class MuhammadnabiXoliqulov extends BackendDeveloper
 | Language | Proficiency |
 |----------|-------------|
 | 🇺🇿 Uzbek  | Native      |
-| 🇬🇧 English | B2          |
+| 🇬🇧 English | IELTS 5.5  |
 
 </div>
 
