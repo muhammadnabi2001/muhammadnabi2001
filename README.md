@@ -121,21 +121,17 @@ class MuhammadnabiXoliqulov extends BackendDeveloper
 
 <div align="center">
   <!-- GitHub umumiy stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadnabi2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadnabi2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_streak=true" alt="GitHub Stats & Streak" />
 
-  <!-- GitHub streak (alternative vercel demo) -->
-  <img width="49%" src="https://streak-stats.demolab.com?username=muhammadnabi2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <!-- Top languages -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnabi2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnabi2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <!-- Contribution graph -->
-  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=muhammadnabi2001&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <!-- Contribution calendar (Vercel alternative) -->
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadnabi2001&theme=tokyonight&hide_border=true" alt="Contribution Graph Alternative" />
 </div>
+
 
 
 
