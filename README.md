@@ -13,28 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Professional Experience
-
-### 🏢 **Fullstack Backend Developer** @ IZISOL MCHJ
-*Apr 2025 – oct 2025 | Tashkent, Uzbekistan*
-
-```
-✅ Developing enterprise-level Laravel applications
-✅ Building RESTful APIs with MySQL & Redis
-✅ Implementing authentication & user management systems
-✅ Participating in Agile sprints & code reviews
-```
-
-### 🎓 **Intern Developer** @ DORA SYSTEM
-*Feb 2024 – Apr 2025 | Tashkent, Uzbekistan*
-
-```
-✅ Web application development with Laravel
-✅ Bug fixing & feature enhancement
-✅ Database optimization & REST API integration
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
