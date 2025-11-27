@@ -128,8 +128,7 @@ class MuhammadnabiXoliqulov extends BackendDeveloper
 </div>
 
 <div align="center">
-  <!-- Contribution calendar (Vercel alternative) -->
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadnabi2001&theme=tokyonight&hide_border=true" alt="Contribution Graph Alternative" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadnabi2001&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 
