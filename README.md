@@ -124,7 +124,7 @@ class MuhammadnabiXoliqulov extends BackendDeveloper
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadnabi2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_streak=true" width="80%" />
 
   <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnabi2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="80%" style="margin-top: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnabi2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" width="80%" style="margin-top: 10px;" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
