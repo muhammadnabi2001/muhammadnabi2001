@@ -136,6 +136,8 @@ class MuhammadnabiXoliqulov extends BackendDeveloper
 </div>
 
 
+![snake gif](https://github.com/muhammadnabi2001/muhammadnabi2001/blob/output/github-snake-dark.svg)
+
 
 
 ## 🎓 Education & Certifications
