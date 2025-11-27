@@ -120,17 +120,23 @@ class MuhammadnabiXoliqulov extends BackendDeveloper
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub umumiy statistika -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadnabi2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+  <!-- GitHub streaks -->
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=muhammadnabi2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- Top used languages -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnabi2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <!-- Contribution graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=muhammadnabi2001&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
