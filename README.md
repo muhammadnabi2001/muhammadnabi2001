@@ -115,61 +115,7 @@ class MuhammadnabiXoliqulov extends BackendDeveloper
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 ERP System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=erp-system&theme=tokyonight&hide_border=true)](https://github.com/yourusername/erp-system)
-
-**Tech Stack:** `Laravel` `Livewire` `MySQL` `JavaScript`
-
-🔹 Role-based ERP with warehouse, payroll, HR modules  
-🔹 Auto-login & user-friendly dashboard  
-🔹 Production & accounting management  
-
-</td>
-<td width="50%">
-
-### 📝 Task Management System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=task-management&theme=tokyonight&hide_border=true)](https://github.com/yourusername/task-management)
-
-**Tech Stack:** `Laravel` `Livewire` `MySQL`
-
-🔹 Real-time task tracking  
-🔹 Notifications & deadline management  
-🔹 CRUD operations for tasks & users  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🍽️ Restaurant Booking System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=restaurant-booking&theme=tokyonight&hide_border=true)](https://github.com/yourusername/restaurant-booking)
-
-**Tech Stack:** `Laravel` `Livewire` `MySQL`
-
-🔹 Seamless card payment integration  
-🔹 Menu handling & order automation  
-🔹 Worker login system  
-
-</td>
-<td width="50%">
-
-### 🚀 More Projects
-[![GitHub](https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername?tab=repositories)
-
-**Explore more amazing projects on my GitHub profile!**
-
-</td>
-</tr>
-</table>
 
 </div>
 
