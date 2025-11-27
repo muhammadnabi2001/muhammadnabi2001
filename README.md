@@ -136,7 +136,6 @@ class MuhammadnabiXoliqulov extends BackendDeveloper
 </div>
 
 
-
 ## 🎓 Education & Certifications
 
 ```
