@@ -1,200 +1,271 @@
 <div align="center">
-  
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi there, I'm Muhammadnabi Xoliqulov
-
-### 💻 Backend Developer | Laravel Enthusiast | Building Scalable Solutions
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xoliqulovmuhammadnabi842@gmail.com)
-
-📞 +998 99 165 51 01
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Muhammadnabi+Xoliqulov;Backend+Developer+%F0%9F%9A%80;Laravel+Enthusiast+%F0%9F%92%9C;Building+Scalable+Solutions+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xoliqulovmuhammadnabi842@gmail.com)
+  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+998991655101)
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
-```javascript
-const muhammadnabi = {
-    role: "Backend Developer",
-    company: "IZISOL MCHJ",
-    location: "Tashkent, Uzbekistan",
-    experience: "2+ years",
-    focus: ["Clean Code", "Scalable Architecture", "RESTful APIs"],
-    currentlyLearning: ["Microservices", "Advanced Laravel Features"],
-    funFact: "I turn coffee into code ☕️"
-};
+```php
+<?php
+
+namespace Developer;
+
+class MuhammadnabiXoliqulov extends BackendDeveloper
+{
+    public function __construct()
+    {
+        $this->name = "Muhammadnabi Xoliqulov";
+        $this->role = "Fullstack Backend Developer";
+        $this->location = "Tashkent, Uzbekistan 🇺🇿";
+        $this->company = "IZISOL MCHJ";
+    }
+    
+    public function getCurrentWork(): array
+    {
+        return [
+            '💼' => 'Building scalable Laravel applications',
+            '🎯' => 'Mastering REST API & WebSocket',
+            '🌱' => 'Learning Docker & CI/CD pipelines',
+            '⚡' => 'Contributing to open-source projects'
+        ];
+    }
+    
+    public function getExpertise(): array
+    {
+        return [
+            'backend' => ['Laravel', 'PHP', 'Livewire', 'REST API'],
+            'database' => ['MySQL', 'Redis'],
+            'devops' => ['Docker', 'GitHub Actions', 'Ubuntu'],
+            'tools' => ['Git', 'Postman', 'Swagger', 'Jira']
+        ];
+    }
+}
 ```
 
-Motivated and detail-oriented backend developer specializing in **Laravel** and modern backend technologies. Passionate about building efficient, scalable applications with a strong focus on **clean code**, **secure APIs**, and **collaborative development**.
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 Professional Experience
 
-### 🏢 **Fullstack Backend Developer** | IZISOL MCHJ, Tashkent
-**Apr 2025 – Present**
+### 🏢 **Fullstack Backend Developer** @ IZISOL MCHJ
+*Apr 2025 – Present | Tashkent, Uzbekistan*
 
-- 🔧 Developing enterprise-grade Laravel backend solutions for internal and client applications
-- 🔐 Implementing robust user authentication and authorization systems
-- 📊 Designing and optimizing MySQL databases for high performance
-- 🚀 Building RESTful APIs and integrating third-party services
-- 👥 Participating in Agile sprints, code reviews, and team knowledge sharing
+```
+✅ Developing enterprise-level Laravel applications
+✅ Building RESTful APIs with MySQL & Redis
+✅ Implementing authentication & user management systems
+✅ Participating in Agile sprints & code reviews
+```
 
-### 🎓 **Intern Developer** | DORA SYSTEM, Tashkent
-**Feb 2024 – Apr 2025**
+### 🎓 **Intern Developer** @ DORA SYSTEM
+*Feb 2024 – Apr 2025 | Tashkent, Uzbekistan*
 
-- 🐛 Debugged and resolved issues in Laravel applications
-- 📈 Enhanced application features and improved database query performance
-- 🤝 Collaborated with senior developers on REST API development
-- 📚 Gained hands-on experience with Git workflows and team development practices
+```
+✅ Web application development with Laravel
+✅ Bug fixing & feature enhancement
+✅ Database optimization & REST API integration
+```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Technical Skills
-
-### **Backend Development**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **Frontend Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### **Other Skills**
-- 🔌 RESTful API Design & Development
-- 🔄 WebSocket Real-time Communication
-- 📱 MVC Architecture Pattern
-- 🔐 JWT Authentication
-- 📋 Agile Methodologies (Jira, Trello)
-- 📄 API Documentation (Swagger)
-- 🔄 CI/CD Pipelines
-
----
-
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🏭 [ERP System](https://github.com/username/erp-system)
-**Enterprise Resource Planning Solution**
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-Comprehensive role-based ERP system featuring:
-- 📦 Warehouse Management
-- 💰 Payroll & HR Modules
-- 📊 Accounting & Financial Tracking
-- 🏭 Production Management
-- 🔐 Auto-login & Role-based Access Control
-- 📱 User-friendly Dashboard
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### ✅ [Task Management System](https://github.com/username/task-management)
-**Real-time Collaborative Task Tracker**
+### API & Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-Advanced task tracking platform with:
-- ⚡ Real-time Notifications
-- 📅 Deadline Management
-- 👥 Multi-user Collaboration
-- 🔄 CRUD Operations for Tasks & Roles
-- 📊 Progress Tracking
-
----
-
-### 🍽️ [Restaurant Booking System](https://github.com/username/restaurant-booking)
-**Complete Restaurant Management Solution**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Payment](https://img.shields.io/badge/Payment-00457C?style=flat-square&logo=visa&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-Full-featured restaurant platform including:
-- 💳 Secure Card Payment Integration
-- 📋 Digital Menu Management
-- 🔐 Staff Login System
-- 🤖 Order Automation
-- 📱 Responsive Design
+### Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎓 Education
+## 🎯 Featured Projects
 
-**🎯 Najot Ta'lim — Backend with PHP Laravel**  
-Graduate | Sep 2024 – Feb 2025
+<div align="center">
 
-**💡 Najot Ta'lim — Foundation of IT**  
-Graduate | Mar 2024 – Aug 2024
+<table>
+<tr>
+<td width="50%">
 
----
+### 🏢 ERP System
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=erp-system&theme=tokyonight&hide_border=true)](https://github.com/yourusername/erp-system)
 
-## 📜 Certifications
+**Tech Stack:** `Laravel` `Livewire` `MySQL` `JavaScript`
 
-- ✅ Najot Ta'lim Foundation Certificate
-- ✅ Najot Ta'lim Backend Development Certificate
+🔹 Role-based ERP with warehouse, payroll, HR modules  
+🔹 Auto-login & user-friendly dashboard  
+🔹 Production & accounting management  
 
----
+</td>
+<td width="50%">
 
-## 🌍 Languages
+### 📝 Task Management System
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=task-management&theme=tokyonight&hide_border=true)](https://github.com/yourusername/task-management)
 
-- 🇬🇧 **English** — B2 (Upper-Intermediate)
-- 🇺🇿 **Uzbek** — Native
+**Tech Stack:** `Laravel` `Livewire` `MySQL`
 
----
+🔹 Real-time task tracking  
+🔹 Notifications & deadline management  
+🔹 CRUD operations for tasks & users  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍽️ Restaurant Booking System
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=restaurant-booking&theme=tokyonight&hide_border=true)](https://github.com/yourusername/restaurant-booking)
+
+**Tech Stack:** `Laravel` `Livewire` `MySQL`
+
+🔹 Seamless card payment integration  
+🔹 Menu handling & order automation  
+🔹 Worker login system  
+
+</td>
+<td width="50%">
+
+### 🚀 More Projects
+[![GitHub](https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername?tab=repositories)
+
+**Explore more amazing projects on my GitHub profile!**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 Education & Certifications
+
+```
+🎓 Backend with PHP Laravel        | Najot Ta'lim | Graduate (Sep 2024 – Feb 2025)
+🎓 Foundation of IT                 | Najot Ta'lim | Graduate (Mar 2024 – Aug 2024)
+```
+
+<div align="center">
+
+[![Certificate](https://img.shields.io/badge/🏆_Backend_Certificate-FF6B6B?style=for-the-badge&logoColor=white)](link-to-certificate)
+[![Certificate](https://img.shields.io/badge/🏆_Foundation_Certificate-4ECDC4?style=for-the-badge&logoColor=white)](link-to-certificate)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌍 Languages
+
+<div align="center">
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇺🇿 Uzbek  | Native      |
+| 🇬🇧 English | B2          |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Building Scalable Laravel Applications
+- 🔐 Advanced Authentication in Laravel
+- 🐳 Docker for PHP Developers
+- ⚡ Optimizing MySQL Queries in Laravel
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Profile Views
+
+<div align="center">
   
-![Muhammadnabi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+  
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
+## 🤝 Let's Connect!
 
+<div align="center">
+  
+  **💬 Open for collaboration and exciting projects!**
+  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xoliqulovmuhammadnabi842@gmail.com)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  
 </div>
 
 ---
 
 <div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-### 📫 Let's Connect!
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xoliqulovmuhammadnabi842@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=username&color=58A6FF&style=for-the-badge)
-
----
-
-⭐️ From [Muhammadnabi Xoliqulov](https://github.com/username) | Open to collaboration and new opportunities!
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer" />
 </div>
