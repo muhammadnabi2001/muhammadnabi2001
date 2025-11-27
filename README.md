@@ -124,7 +124,7 @@ class MuhammadnabiXoliqulov extends BackendDeveloper
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadnabi2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
   <!-- GitHub streak (alternative vercel demo) -->
-  <img width="49%" src="https://streak-stats.demolab.com?user=muhammadnabi2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?username=muhammadnabi2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
