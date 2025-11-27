@@ -5,52 +5,11 @@
 <div align="center">
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/https://t.me/Mukhammadnabi_Kholikulov)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mukhammadnabi-kholikulov-b98370289/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xoliqulovmuhammadnabi842@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+998991655101)
   
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 About Me
-
-```php
-<?php
-
-namespace Developer;
-
-class MuhammadnabiXoliqulov extends BackendDeveloper
-{
-    public function __construct()
-    {
-        $this->name = "Muhammadnabi Xoliqulov";
-        $this->role = "Fullstack Backend Developer";
-        $this->location = "Tashkent, Uzbekistan 🇺🇿";
-        $this->company = "IZISOL MCHJ";
-    }
-    
-    public function getCurrentWork(): array
-    {
-        return [
-            '💼' => 'Building scalable Laravel applications',
-            '🎯' => 'Mastering REST API & WebSocket',
-            '🌱' => 'Learning Docker & CI/CD pipelines',
-            '⚡' => 'Contributing to open-source projects'
-        ];
-    }
-    
-    public function getExpertise(): array
-    {
-        return [
-            'backend' => ['Laravel', 'PHP', 'Livewire', 'REST API'],
-            'database' => ['MySQL', 'Redis'],
-            'devops' => ['Docker', 'GitHub Actions', 'Ubuntu'],
-            'tools' => ['Git', 'Postman', 'Swagger', 'Jira']
-        ];
-    }
-}
-```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
