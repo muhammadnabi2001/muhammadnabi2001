@@ -132,6 +132,11 @@ class MuhammadnabiXoliqulov extends BackendDeveloper
 </div>
 
 <div align="center" style="margin-top: 20px;">
+  <!-- Contribution graph with snake effect -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Contribution Snake" style="max-width: 100%;" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif" style="max-width: 100%;" />
 </div>
 
