@@ -57,7 +57,17 @@
 
 ## 📊 GitHub Statistics
 
+<div align="center">
+  <!-- GitHub umumiy stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadnabi2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_streak=true" width="80%" />
 
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnabi2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" width="80%" style="margin-top: 10px;" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadnabi2001&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" style="max-width: 100%;" />
+</div>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif" style="max-width: 100%;" />
